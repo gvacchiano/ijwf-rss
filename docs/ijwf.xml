@@ -3,98 +3,347 @@
   <channel>
     <title>International Journal of Wildland Fire — latest articles</title>
     <link>https://connectsci.au/wf</link>
-    <description>Clean RSS 2.0 feed for International Journal of Wildland Fire.</description>
+    <description>Feed generated from Crossref metadata for the International Journal of Wildland Fire.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 00:11:11 +0000</lastBuildDate>
     <item>
-      <title>Corrigendum to : Empirical modelling of surface fire rate of spread in Pinus koraiensis plantations – a laboratory simulation study</title>
-      <link>https://connectsci.au/wf/article/35/8/WF25190_CO/275784/Corrigendum-to-Empirical-modelling-of-surface-fire</link>
-      <guid isPermaLink="true">https://connectsci.au/wf/article/35/8/WF25190_CO/275784/Corrigendum-to-Empirical-modelling-of-surface-fire</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+      <title>Climate driving factors of winter-spring wildfires in the Northeast and Southwest forest zones of China</title>
+      <link>https://doi.org/10.1071/wf25319</link>
+      <guid isPermaLink="false">doi:10.1071/wf25319</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Chenxin Li, Siquan Yang, Qichao Yao, Lamei Shi, Huiqian Yu, Di Wang&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25319'&gt;10.1071/wf25319&lt;/a&gt;</description>
     </item>
     <item>
       <title>Numerical simulation of plume-dominated shrubland-fire spread: a parametric study</title>
-      <link>https://connectsci.au/wf/article/35/8/WF25294/275010/Numerical-simulation-of-plume-dominated-shrubland</link>
-      <guid isPermaLink="true">https://connectsci.au/wf/article/35/8/WF25294/275010/Numerical-simulation-of-plume-dominated-shrubland</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+      <link>https://doi.org/10.1071/wf25294</link>
+      <guid isPermaLink="false">doi:10.1071/wf25294</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Abdel-Razzak Tayba, Charbel Farhat, Charbel Karam, Gilbert Accary&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25294'&gt;10.1071/wf25294&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>&lt;i&gt;Corrigendum to&lt;/i&gt;
+                    : Empirical modelling of surface fire rate of spread in
+                    &lt;i&gt;Pinus koraiensis&lt;/i&gt;
+                    plantations – a laboratory simulation study</title>
+      <link>https://doi.org/10.1071/wf25190_co</link>
+      <guid isPermaLink="false">doi:10.1071/wf25190_co</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Daotong Geng, Jibin Ning, Baozhong Li, Lixuan Wang, Canfeng Xu, Liqing Si, Wenbin Cui, Guang Yang&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25190_co'&gt;10.1071/wf25190_co&lt;/a&gt;</description>
     </item>
     <item>
       <title>Association of herbaceous fractional cover and wildfire ignition in Mediterranean-type ecosystems</title>
-      <link>https://connectsci.au/wf/article/35/8/WF26085/272867/Association-of-herbaceous-fractional-cover-and</link>
-      <guid isPermaLink="true">https://connectsci.au/wf/article/35/8/WF26085/272867/Association-of-herbaceous-fractional-cover-and</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assessment of fire spread predictions from the Wildfire Intelligence and Simulation Engine (W.I.S.E.) using a large set of satellite-derived wildfire perimeters</title>
-      <link>https://connectsci.au/wf/article/35/8/WF26072/274595/Assessment-of-fire-spread-predictions-from-the</link>
-      <guid isPermaLink="true">https://connectsci.au/wf/article/35/8/WF26072/274595/Assessment-of-fire-spread-predictions-from-the</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <link>https://doi.org/10.1071/wf26085</link>
+      <guid isPermaLink="false">doi:10.1071/wf26085</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Krista R. Lee West, Douglas A. Stow, John F. O&amp;#x27;Leary, Dar A. Roberts, Alexandra D. Syphard, Megan K. Jennings, Leila M. V. Carvalho&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26085'&gt;10.1071/wf26085&lt;/a&gt;</description>
     </item>
     <item>
       <title>House loss patterns in the Australian 2019–20 fire disaster confirm the reliability of official risk mapping</title>
-      <link>https://connectsci.au/wf/article/35/8/WF25197/273179/House-loss-patterns-in-the-Australian-2019-20-fire</link>
-      <guid isPermaLink="true">https://connectsci.au/wf/article/35/8/WF25197/273179/House-loss-patterns-in-the-Australian-2019-20-fire</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <link>https://doi.org/10.1071/wf25197</link>
+      <guid isPermaLink="false">doi:10.1071/wf25197</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Owen F. Price, David M. J. S. Bowman&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25197'&gt;10.1071/wf25197&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Initial growth of fires in eucalypt litter, from ignition to quasi-steady-state rate of spread: A.G. McArthur’s field experiments</title>
-      <link>https://connectsci.au/wf/article/35/8/WF25157/274282/Initial-growth-of-fires-in-eucalypt-litter-from</link>
-      <guid isPermaLink="true">https://connectsci.au/wf/article/35/8/WF25157/274282/Initial-growth-of-fires-in-eucalypt-litter-from</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+      <title>Assessment of fire spread predictions from the Wildfire Intelligence and Simulation Engine (W.I.S.E.) using a large set of satellite-derived wildfire perimeters</title>
+      <link>https://doi.org/10.1071/wf26072</link>
+      <guid isPermaLink="false">doi:10.1071/wf26072</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; L. Bennett, P. Jain, B. Moore, J. Boisvert&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26072'&gt;10.1071/wf26072&lt;/a&gt;</description>
     </item>
     <item>
       <title>Investigation of influence of fuel moisture content on surface fire transition to crown fire using physics-based modelling</title>
-      <link>https://connectsci.au/wf/article/35/8/WF25214/273030/Investigation-of-influence-of-fuel-moisture</link>
-      <guid isPermaLink="true">https://connectsci.au/wf/article/35/8/WF25214/273030/Investigation-of-influence-of-fuel-moisture</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+      <link>https://doi.org/10.1071/wf25214</link>
+      <guid isPermaLink="false">doi:10.1071/wf25214</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Mohamed Sharaf, Duncan Sutherland, Rahul Wadhwani, Khalid Moinuddin&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25214'&gt;10.1071/wf25214&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Initial growth of fires in eucalypt litter, from ignition to quasi-steady-state rate of spread: A.G. McArthur’s field experiments</title>
+      <link>https://doi.org/10.1071/wf25157</link>
+      <guid isPermaLink="false">doi:10.1071/wf25157</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; James S. Gould, Andrew L. Sullivan&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25157'&gt;10.1071/wf25157&lt;/a&gt;</description>
     </item>
     <item>
       <title>An interpretable remote sensing–machine learning framework for wildfire soil burn severity prediction in the northwestern United States</title>
-      <link>https://connectsci.au/wf/article/35/8/WF25295/274269/An-interpretable-remote-sensing-machine-learning</link>
-      <guid isPermaLink="true">https://connectsci.au/wf/article/35/8/WF25295/274269/An-interpretable-remote-sensing-machine-learning</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Categorizing weather patterns associated with lightning-caused ignition clusters in Canada</title>
-      <link>https://connectsci.au/wf/article/35/8/WF26023/275021/Categorizing-weather-patterns-associated-with</link>
-      <guid isPermaLink="true">https://connectsci.au/wf/article/35/8/WF26023/275021/Categorizing-weather-patterns-associated-with</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://doi.org/10.1071/wf25295</link>
+      <guid isPermaLink="false">doi:10.1071/wf25295</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Subhankar Das, Mariana Dobre, Roger Lew, Sarah A. Lewis, Erin S. Brooks, Peter R. Robichaud, Anurag Srivastava, Mary Ellen Miller, Alex M. Watanabe, Marta Basso&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25295'&gt;10.1071/wf25295&lt;/a&gt;</description>
     </item>
     <item>
       <title>Sequences of large-scale meteorological patterns associated with wildfire spread events in the Northwestern United States</title>
-      <link>https://connectsci.au/wf/article/35/8/WF25144/275013/Sequences-of-large-scale-meteorological-patterns</link>
-      <guid isPermaLink="true">https://connectsci.au/wf/article/35/8/WF25144/275013/Sequences-of-large-scale-meteorological-patterns</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://doi.org/10.1071/wf25144</link>
+      <guid isPermaLink="false">doi:10.1071/wf25144</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Reed Humphrey, John T. Abatzoglou&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25144'&gt;10.1071/wf25144&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Categorizing weather patterns associated with lightning-caused ignition clusters in Canada</title>
+      <link>https://doi.org/10.1071/wf26023</link>
+      <guid isPermaLink="false">doi:10.1071/wf26023</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Rafik Ghali, Raphaël D. Chavardès, Piyush Jain, Sandy Enri, Mike D. Flannigan, Georgios Papavasileiou, Chelene C. Hanes, Richard Carr, Theodore M. Giannaros, Jennifer L. Anderson, Moulay A. Akhloufi&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26023'&gt;10.1071/wf26023&lt;/a&gt;</description>
     </item>
     <item>
       <title>Integrating georeferencing and fire anatomy modeling in canyon fire experiments using thermal UAV remote sensing</title>
-      <link>https://connectsci.au/wf/article/35/8/WF25235/272939/Integrating-georeferencing-and-fire-anatomy</link>
-      <guid isPermaLink="true">https://connectsci.au/wf/article/35/8/WF25235/272939/Integrating-georeferencing-and-fire-anatomy</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Metrics into management: which measures of landscape moisture best inform wildfire planning and response?</title>
-      <link>https://connectsci.au/wf/article/35/8/WF25233/274598/Metrics-into-management-which-measures-of</link>
-      <guid isPermaLink="true">https://connectsci.au/wf/article/35/8/WF25233/274598/Metrics-into-management-which-measures-of</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://doi.org/10.1071/wf25235</link>
+      <guid isPermaLink="false">doi:10.1071/wf25235</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Xiangyu Ren, Bo Yang, Alexander I. Filkov, Katherine M. Wilkin, C. David Benterou, Owen Hussey, Craig B. Clements&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25235'&gt;10.1071/wf25235&lt;/a&gt;</description>
     </item>
     <item>
       <title>Changes in visits to wildlife water developments by bighorn sheep and mule deer following a wildland fire</title>
-      <link>https://connectsci.au/wf/article/35/8/WF25264/274534/Changes-in-visits-to-wildlife-water-developments</link>
-      <guid isPermaLink="true">https://connectsci.au/wf/article/35/8/WF25264/274534/Changes-in-visits-to-wildlife-water-developments</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://doi.org/10.1071/wf25264</link>
+      <guid isPermaLink="false">doi:10.1071/wf25264</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; J. Daniel Whittle, Randy T. Larsen, Brock R. McMillan, Jericho C. Whiting, Steven B. Bates&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25264'&gt;10.1071/wf25264&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Metrics into management: which measures of landscape moisture best inform wildfire planning and response?</title>
+      <link>https://doi.org/10.1071/wf25233</link>
+      <guid isPermaLink="false">doi:10.1071/wf25233</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Jamie E. Burton, Luke Collins, Rachael H. Nolan, Hamish Clarke, Trent D. Penman, Brett A. Cirulis, Jane G. Cawson&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25233'&gt;10.1071/wf25233&lt;/a&gt;</description>
     </item>
     <item>
       <title>Wildfire danger assessment and forecast through fire spread simulations</title>
-      <link>https://connectsci.au/wf/article/35/8/WF25278/274263/Wildfire-danger-assessment-and-forecast-through</link>
-      <guid isPermaLink="true">https://connectsci.au/wf/article/35/8/WF25278/274263/Wildfire-danger-assessment-and-forecast-through</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://doi.org/10.1071/wf25278</link>
+      <guid isPermaLink="false">doi:10.1071/wf25278</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Jia Yang, Tyson E. Ochsner, Erik S. Krueger, Shanmin Fang, Quan Zhang, Xiaohao Jiao, Chris Zou, Yongqiang Liu, Todd Lindley, Drew Daily&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25278'&gt;10.1071/wf25278&lt;/a&gt;</description>
     </item>
     <item>
       <title>Direct and indirect wildland fire exposures and impacts in California’s wildland–urban interface</title>
-      <link>https://connectsci.au/wf/article/35/8/WF25070/273141/Direct-and-indirect-wildland-fire-exposures-and</link>
-      <guid isPermaLink="true">https://connectsci.au/wf/article/35/8/WF25070/273141/Direct-and-indirect-wildland-fire-exposures-and</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://doi.org/10.1071/wf25070</link>
+      <guid isPermaLink="false">doi:10.1071/wf25070</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Miriam E. Marlier, Rachel Connolly, Claire Schollaert, Jihoon Jung, Eimy Bonilla, Daja Elum, Kane Samuel, Volker C. Radeloff, Paige Weber, Megan E. Cattau, Joseph L. Wilkins&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25070'&gt;10.1071/wf25070&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Atmospheric dryness as a coordinated driver of fire activity and biomass accumulation in northwestern boreal Canada</title>
+      <link>https://doi.org/10.1071/wf25274</link>
+      <guid isPermaLink="false">doi:10.1071/wf25274</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Martin P. Girardin, Yan Boulanger, Raquel Alfaro-Sánchez, Xiuzhi Chen&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25274'&gt;10.1071/wf25274&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Risky science: why connecting research to application matters</title>
+      <link>https://doi.org/10.1071/wf26161</link>
+      <guid isPermaLink="false">doi:10.1071/wf26161</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Lynn Johnston&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26161'&gt;10.1071/wf26161&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Fuel breaks need more regime-scale empirical research: insights from a rapid evidence review</title>
+      <link>https://doi.org/10.1071/wf26057</link>
+      <guid isPermaLink="false">doi:10.1071/wf26057</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Hamish Clarke, Alexandra D. Syphard, Erica Marshall, Caitlin Symon&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26057'&gt;10.1071/wf26057&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Comparative performance of dNBR and dNDVI for burn severity mapping via large wildfires of 2021 in Türkiye</title>
+      <link>https://doi.org/10.1071/wf25096</link>
+      <guid isPermaLink="false">doi:10.1071/wf25096</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Alkan Günlü, Fatih Sivrikaya, Okan Ürker, Christopher J. Dunn&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25096'&gt;10.1071/wf25096&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Endangered marsupial predator shows resilience to infrequent fire in the absence of introduced predators</title>
+      <link>https://doi.org/10.1071/wf25228</link>
+      <guid isPermaLink="false">doi:10.1071/wf25228</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Natasha D. Harrison, Judy A. Dunlop, Harry A. Moore, Alicia Whittington, Pedro Palheiro, Lesley A. Gibson&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25228'&gt;10.1071/wf25228&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Short-term spatio-temporal forecasting of human-caused wildland fire occurrence: an errors in variables approach</title>
+      <link>https://doi.org/10.1071/wf25211</link>
+      <guid isPermaLink="false">doi:10.1071/wf25211</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Zixuan Yang, Douglas G. Woolford&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25211'&gt;10.1071/wf25211&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Using observed fires to study changes in fire season timing across Ontario, Canada</title>
+      <link>https://doi.org/10.1071/wf25164</link>
+      <guid isPermaLink="false">doi:10.1071/wf25164</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Kevin Granville, Douglas G. Woolford, C. B. Dean&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25164'&gt;10.1071/wf25164&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Flammability of native perennial grasses in temperate Australia as influenced by dryness, fire intensity and species</title>
+      <link>https://doi.org/10.1071/wf25290</link>
+      <guid isPermaLink="false">doi:10.1071/wf25290</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Habtamu G. Gessesse, Alexander I. Filkov, Thomas A. Fairman, Trent D. Penman, Lauren T. Bennett&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25290'&gt;10.1071/wf25290&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Estimating basal area change by tree size with Sentinel-2 imagery following four fires in California, USA</title>
+      <link>https://doi.org/10.1071/wf25109</link>
+      <guid isPermaLink="false">doi:10.1071/wf25109</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Micah C. Wright, Phillip J. van Mantgem, Christopher Y. S. Wong, Derek J. N. Young, Saba J. Saberi, Andrew M. Latimer, Joseph A. E. Stewart, Adrian J. Das, Calvin A. Farris, Emma J. McClure, Lauren N. Youngblood, Hugh D. Safford, Kristen L. Shive&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25109'&gt;10.1071/wf25109&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>A methodology for quantifying structure fragility to fire in the wildland–urban interface utilizing past event investigations and fire and ember modeling</title>
+      <link>https://doi.org/10.1071/wf25146</link>
+      <guid isPermaLink="false">doi:10.1071/wf25146</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Maria F. Theodori, Raquel S. P. Hakes, Chris Lautenberger, Linda Qian, Michael J. Gollner&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25146'&gt;10.1071/wf25146&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Post-fire soil hydrologic response and recovery in northern California (USA)</title>
+      <link>https://doi.org/10.1071/wf25141</link>
+      <guid isPermaLink="false">doi:10.1071/wf25141</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; C. Cerovski-Darriau, K. S. Perkins, C. A. Creamer, J. P. Prancevic, J. D. Stock&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25141'&gt;10.1071/wf25141&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Effects of fire management on biomass and debris carbon stocks in Australia’s northern savannas: results from long-term trials</title>
+      <link>https://doi.org/10.1071/wf26061</link>
+      <guid isPermaLink="false">doi:10.1071/wf26061</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Ee Ling Ng, Jacqueline R. England, Keryn I. Paul, Melissa Piper, Anna E. Richards, Robyn A. Cowley, Rodd M. Dyer, Jon Schatz, David I. Forrester&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26061'&gt;10.1071/wf26061&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Prescribed burning in your backyard? Connecting perceptions of wildland fire, smoke and exposure mitigation actions</title>
+      <link>https://doi.org/10.1071/wf25193</link>
+      <guid isPermaLink="false">doi:10.1071/wf25193</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Megan M. Johnson, Fernando Garcia-Menendez&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25193'&gt;10.1071/wf25193&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Do spatial simulations change reference conditions?</title>
+      <link>https://doi.org/10.1071/wf25169</link>
+      <guid isPermaLink="false">doi:10.1071/wf25169</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Louis Provencher, Sarah Byer, Kevin J. Badik, Margaret Horner, Bryan Hamilton, Devin McHugh, Michael J. Clifford, Laurel Saito&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25169'&gt;10.1071/wf25169&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Wildfire personnel health as fire management infrastructure: readiness, response, recovery</title>
+      <link>https://doi.org/10.1071/wf26113</link>
+      <guid isPermaLink="false">doi:10.1071/wf26113</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Anthony R. White&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26113'&gt;10.1071/wf26113&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Rebuilding and new residential development following a destructive wildfire: a 10-year wildland–urban interface case study in Texas, United States</title>
+      <link>https://doi.org/10.1071/wf25028</link>
+      <guid isPermaLink="false">doi:10.1071/wf25028</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; N. Lee May, Wesley A. Miller, Urs P. Kreuter&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25028'&gt;10.1071/wf25028&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Integrating forest succession modeling and a physics-based fire behavior model to support long-term prescribed fire management</title>
+      <link>https://doi.org/10.1071/wf25035</link>
+      <guid isPermaLink="false">doi:10.1071/wf25035</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Niko J. Tutland, E. Louise Loudermilk, Zachary J. Robbins, Steven A. Flanagan, Adam L. Atchley, Zachary Cope&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25035'&gt;10.1071/wf25035&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>The 2014 Camp Swift Fire experiments: a FAIR, spatiotemporally integrated dataset for evaluating 3D fire models</title>
+      <link>https://doi.org/10.1071/wf25139</link>
+      <guid isPermaLink="false">doi:10.1071/wf25139</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Derek McNamara, William Mell, Alexander Maranghides, Karen Ridenour-Jackson&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25139'&gt;10.1071/wf25139&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Fire Dynamics Simulator and QUIC-fire simulations of the 2014 Camp Swift experiments</title>
+      <link>https://doi.org/10.1071/wf25104</link>
+      <guid isPermaLink="false">doi:10.1071/wf25104</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; William Mell, Derek McNamara, Xareni Sanchez-Monroy, Anthony Bova&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25104'&gt;10.1071/wf25104&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Ignition of forest fuels by hollow particles: energy dynamics and fire hazard implications</title>
+      <link>https://doi.org/10.1071/wf25267</link>
+      <guid isPermaLink="false">doi:10.1071/wf25267</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Kaifeng Wang, Chunyin Zhang, Supan Wang, Juncheng Jiang&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25267'&gt;10.1071/wf25267&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Backing fire spread in dry eucalypt litter in a combustion wind tunnel</title>
+      <link>https://doi.org/10.1071/wf25240</link>
+      <guid isPermaLink="false">doi:10.1071/wf25240</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Riley E. Guyatt, Andrew L. Sullivan, Geoffrey J. Cary, A. O. Nicholls&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25240'&gt;10.1071/wf25240&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Still standing: a synthesis of local characteristics influencing housing survivability during WUI wildfires</title>
+      <link>https://doi.org/10.1071/wf25222</link>
+      <guid isPermaLink="false">doi:10.1071/wf25222</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Rachel M. Fields, Erica C. Fischer, Christopher J. Dunn&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25222'&gt;10.1071/wf25222&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Variability and consistency in wildfire susceptibility: insights from a national compilation</title>
+      <link>https://doi.org/10.1071/wf25219</link>
+      <guid isPermaLink="false">doi:10.1071/wf25219</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Aaron Russell, Lucas S. Bair, James R. Meldrum, Todd J. Hawbaker&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25219'&gt;10.1071/wf25219&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Utilizing an ecosystem model and satellite data to estimate daily PM2.5 emissions from recent wildland–urban interface fires in California</title>
+      <link>https://doi.org/10.1071/wf25194</link>
+      <guid isPermaLink="false">doi:10.1071/wf25194</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Christopher Potter, Stephanie Pass, Jessica L. McCarty&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25194'&gt;10.1071/wf25194&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Leveraging drone-based thermal imagery and artificial intelligence to advance wildland fire behavior quantification and prediction</title>
+      <link>https://doi.org/10.1071/wf25133</link>
+      <guid isPermaLink="false">doi:10.1071/wf25133</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Phinehas Lampman, Eric Rowell, Adam K. Kochanski, Jan U. H. Eitel, Jason W. Karl, Leda N. Kobziar&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25133'&gt;10.1071/wf25133&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Exploring patterns and potential impact of cloud cover at public satellite overpass times used for wildfires: a case study of two regions in Canada</title>
+      <link>https://doi.org/10.1071/wf25063</link>
+      <guid isPermaLink="false">doi:10.1071/wf25063</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Kevin C. Alamanda, Douglas G. Woolford, Mark C. de Jong, Colin B. McFayden, Jordan Evens, Morgan A. Crowley, Joshua M. Johnston&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25063'&gt;10.1071/wf25063&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Reburning from overwintering fires in boreal North America: insights from a Landsat time series analysis</title>
+      <link>https://doi.org/10.1071/wf25286</link>
+      <guid isPermaLink="false">doi:10.1071/wf25286</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Thomas D. Hessilt, Sander Veraverbeke, Michelle C. Mack, Richard Olsen, Merritt Turetsky, Xanthe J. Walker, Jennifer L. Baltzer&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25286'&gt;10.1071/wf25286&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Living with fire: exploring Indigenous perspectives and practices in the southwestern USA, a systematic review</title>
+      <link>https://doi.org/10.1071/wf25156</link>
+      <guid isPermaLink="false">doi:10.1071/wf25156</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Lionel Whitehair, Peter Z. Fulé, Seafha Ramos, Ora Marek-Martinez&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25156'&gt;10.1071/wf25156&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Incentivising savanna fire management for emissions reduction, biodiversity conservation and community livelihood outcomes</title>
+      <link>https://doi.org/10.1071/wf26039</link>
+      <guid isPermaLink="false">doi:10.1071/wf26039</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Jeremy Russell-Smith, Roland Vernooij, Andrew C. Edwards, Kamaljit K. Sangha&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26039'&gt;10.1071/wf26039&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Physics-based modeling of fire spread in small-scale fuel beds using multiple-reaction pyrolysis kinetics</title>
+      <link>https://doi.org/10.1071/wf25205</link>
+      <guid isPermaLink="false">doi:10.1071/wf25205</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Sahar Rasoulpour, Amirreza Hesabi-Shotorbani, Babak Shotorban&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25205'&gt;10.1071/wf25205&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>A review of carbon dynamics and REDD+ projects in the Miombo Ecoregion, Africa: opportunities and challenges</title>
+      <link>https://doi.org/10.1071/wf25053</link>
+      <guid isPermaLink="false">doi:10.1071/wf25053</guid>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Kondwani Kapinga, Ferdinand Handavu, Henry Sikapite, Stephen Syampungani&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25053'&gt;10.1071/wf25053&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Outstanding Associate Editor Award</title>
+      <link>https://doi.org/10.1071/wfv35n4_aw</link>
+      <guid isPermaLink="false">doi:10.1071/wfv35n4_aw</guid>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Xinyan Huang&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wfv35n4_aw'&gt;10.1071/wfv35n4_aw&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
