@@ -22,7 +22,6 @@ def crossref_items():
         "sort": "published",
         "order": "desc",
         "rows": ROWS,
-        "select": "DOI,title,author,published-online,published-print,issued,URL,container-title,type,subtype",
     }
     url = f"https://api.crossref.org/journals/{ISSN}/works?" + urllib.parse.urlencode(params)
     req = urllib.request.Request(
