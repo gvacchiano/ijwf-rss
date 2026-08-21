@@ -5,7 +5,21 @@
     <link>https://connectsci.au/wf</link>
     <description>Feed generated from Crossref metadata for the International Journal of Wildland Fire.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 04:51:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 04:52:52 +0000</lastBuildDate>
+    <item>
+      <title>Wildfire risk management at the wildland–settlement nexus: a comparative analysis of the 2025 WUI fires in Japan and South Korea</title>
+      <link>https://doi.org/10.1071/wf26043</link>
+      <guid isPermaLink="false">doi:10.1071/wf26043</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Hyejeong Park, Kihun Nam&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26043'&gt;10.1071/wf26043&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Experimental investigation of fire spread and heat transfer mechanisms from vegetation to EPS walls under wind conditions</title>
+      <link>https://doi.org/10.1071/wf25320</link>
+      <guid isPermaLink="false">doi:10.1071/wf25320</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Mahmoud S. Waly, Guan Heng Yeoh, Maryam Ghodrat&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25320'&gt;10.1071/wf25320&lt;/a&gt;</description>
+    </item>
     <item>
       <title>Lessons learned from community-scale use of temporary refuge areas during the Camp Fire</title>
       <link>https://doi.org/10.1071/wf25312</link>
@@ -316,13 +330,6 @@
       <guid isPermaLink="false">doi:10.1071/wf25133</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       <description>&lt;strong&gt;Authors:&lt;/strong&gt; Phinehas Lampman, Eric Rowell, Adam K. Kochanski, Jan U. H. Eitel, Jason W. Karl, Leda N. Kobziar&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25133'&gt;10.1071/wf25133&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>Exploring patterns and potential impact of cloud cover at public satellite overpass times used for wildfires: a case study of two regions in Canada</title>
-      <link>https://doi.org/10.1071/wf25063</link>
-      <guid isPermaLink="false">doi:10.1071/wf25063</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Kevin C. Alamanda, Douglas G. Woolford, Mark C. de Jong, Colin B. McFayden, Jordan Evens, Morgan A. Crowley, Joshua M. Johnston&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25063'&gt;10.1071/wf25063&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
