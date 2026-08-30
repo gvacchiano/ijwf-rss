@@ -5,7 +5,7 @@
     <link>https://connectsci.au/wf</link>
     <description>Feed generated from Crossref metadata for the International Journal of Wildland Fire.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2026 11:03:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 09:55:34 +0000</lastBuildDate>
     <item>
       <title>When mulch burns: fire risks at the wildland–urban interface</title>
       <link>https://doi.org/10.1071/wf26040</link>
@@ -344,13 +344,6 @@
       <guid isPermaLink="false">doi:10.1071/wf25194</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <description>&lt;strong&gt;Authors:&lt;/strong&gt; Christopher Potter, Stephanie Pass, Jessica L. McCarty&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25194'&gt;10.1071/wf25194&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>Leveraging drone-based thermal imagery and artificial intelligence to advance wildland fire behavior quantification and prediction</title>
-      <link>https://doi.org/10.1071/wf25133</link>
-      <guid isPermaLink="false">doi:10.1071/wf25133</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Phinehas Lampman, Eric Rowell, Adam K. Kochanski, Jan U. H. Eitel, Jason W. Karl, Leda N. Kobziar&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25133'&gt;10.1071/wf25133&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
