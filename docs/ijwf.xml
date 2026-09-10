@@ -5,7 +5,21 @@
     <link>https://connectsci.au/wf</link>
     <description>Feed generated from Crossref metadata for the International Journal of Wildland Fire.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 08:56:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 08:56:02 +0000</lastBuildDate>
+    <item>
+      <title>Advancing community wildfire adaptation: emerging directions for meaningful progress</title>
+      <link>https://doi.org/10.1071/wf26231</link>
+      <guid isPermaLink="false">doi:10.1071/wf26231</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Catrin M. Edgeley&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26231'&gt;10.1071/wf26231&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Examining language disparities among Spanish and English speakers in wildfire smoke events across the western United States</title>
+      <link>https://doi.org/10.1071/wf26103</link>
+      <guid isPermaLink="false">doi:10.1071/wf26103</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Ryan Salamon, Joseph E. Trujillo-Falcón, Joseph T. Ripberger, Alyssa S. Thomas, Marlin E. Martínez, Michael Méndez&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26103'&gt;10.1071/wf26103&lt;/a&gt;</description>
+    </item>
     <item>
       <title>Where is the evidence? Mapping the fire–biodiversity knowledge base of northern Australian savannas</title>
       <link>https://doi.org/10.1071/wf26108</link>
@@ -28,18 +42,18 @@
       <description>&lt;strong&gt;Authors:&lt;/strong&gt; François Joseph Chatelon, Miguel G. Cruz, Jacques Henri Balbi, Thierry Marcelli, Sofiane Meradji, Dominique Morvan, Jean Louis Rossi&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25204'&gt;10.1071/wf25204&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Experimental and theoretical analysis of the smoldering-to-flaming transition in moist pine needle beds under unsteady wind flow</title>
-      <link>https://doi.org/10.1071/wf26101</link>
-      <guid isPermaLink="false">doi:10.1071/wf26101</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Jiuling Yang, Lei Yang, Jiepei Xu, Shiqi Wu, Haoyang Qin&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26101'&gt;10.1071/wf26101&lt;/a&gt;</description>
-    </item>
-    <item>
       <title>The Balbi operational model, a simplified physical model for surface fires. Part I – modelling</title>
       <link>https://doi.org/10.1071/wf25203</link>
       <guid isPermaLink="false">doi:10.1071/wf25203</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <description>&lt;strong&gt;Authors:&lt;/strong&gt; Jacques Henri Balbi, François-Joseph Chatelon, Miguel G. Cruz, Thierry Marcelli, Sofiane Meradji, Dominique Morvan, Jean Louis Rossi&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25203'&gt;10.1071/wf25203&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Experimental and theoretical analysis of the smoldering-to-flaming transition in moist pine needle beds under unsteady wind flow</title>
+      <link>https://doi.org/10.1071/wf26101</link>
+      <guid isPermaLink="false">doi:10.1071/wf26101</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Jiuling Yang, Lei Yang, Jiepei Xu, Shiqi Wu, Haoyang Qin&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26101'&gt;10.1071/wf26101&lt;/a&gt;</description>
     </item>
     <item>
       <title>Post-fire erosion and debris flows in the western Pacific Northwest, United States: recent science and opportunities</title>
@@ -372,13 +386,6 @@
       <guid isPermaLink="false">doi:10.1071/wf25267</guid>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       <description>&lt;strong&gt;Authors:&lt;/strong&gt; Kaifeng Wang, Chunyin Zhang, Supan Wang, Juncheng Jiang&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25267'&gt;10.1071/wf25267&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>Backing fire spread in dry eucalypt litter in a combustion wind tunnel</title>
-      <link>https://doi.org/10.1071/wf25240</link>
-      <guid isPermaLink="false">doi:10.1071/wf25240</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Riley E. Guyatt, Andrew L. Sullivan, Geoffrey J. Cary, A. O. Nicholls&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25240'&gt;10.1071/wf25240&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
