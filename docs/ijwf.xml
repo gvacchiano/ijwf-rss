@@ -5,7 +5,15 @@
     <link>https://connectsci.au/wf</link>
     <description>Feed generated from Crossref metadata for the International Journal of Wildland Fire.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 09:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:25:18 +0000</lastBuildDate>
+    <item>
+      <title>&lt;i&gt;Corrigendum to&lt;/i&gt;
+                    : Categorizing weather patterns associated with lightning-caused ignition clusters in Canada</title>
+      <link>https://doi.org/10.1071/wf26023_co</link>
+      <guid isPermaLink="false">doi:10.1071/wf26023_co</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Rafik Ghali, Raphaël D. Chavardès, Piyush Jain, Sandy Erni, Mike D. Flannigan, Georgios Papavasileiou, Chelene C. Hanes, Richard Carr, Theodore M. Giannaros, Jennifer L. Anderson, Moulay A. Akhloufi&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26023_co'&gt;10.1071/wf26023_co&lt;/a&gt;</description>
+    </item>
     <item>
       <title>Experimental investigation of flame behavior and radiation heat transfer in wind-driven single-tree crown fires</title>
       <link>https://doi.org/10.1071/wf26001</link>
@@ -91,18 +99,18 @@
       <description>&lt;strong&gt;Authors:&lt;/strong&gt; Felicity E. Charles, April E. Reside, Patrick T. Moss, Annabel L. Smith&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25076'&gt;10.1071/wf25076&lt;/a&gt;</description>
     </item>
     <item>
-      <title>One hundred years of forest fires in Poland – historical and socio-economic context</title>
-      <link>https://doi.org/10.1071/wf24146</link>
-      <guid isPermaLink="false">doi:10.1071/wf24146</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Jan Kaczmarowski, Wojciech Kędziora, M. Conceição Colaço&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf24146'&gt;10.1071/wf24146&lt;/a&gt;</description>
-    </item>
-    <item>
       <title>When mulch burns: fire risks at the wildland–urban interface</title>
       <link>https://doi.org/10.1071/wf26040</link>
       <guid isPermaLink="false">doi:10.1071/wf26040</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <description>&lt;strong&gt;Authors:&lt;/strong&gt; Shaorun Lin, Stephen L. Quarles, Daniel J. Gorham, Wuquan Cui, Michael J. Gollner&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26040'&gt;10.1071/wf26040&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>One hundred years of forest fires in Poland – historical and socio-economic context</title>
+      <link>https://doi.org/10.1071/wf24146</link>
+      <guid isPermaLink="false">doi:10.1071/wf24146</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Jan Kaczmarowski, Wojciech Kędziora, M. Conceição Colaço&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf24146'&gt;10.1071/wf24146&lt;/a&gt;</description>
     </item>
     <item>
       <title>Characterization of the ecological impacts of prescribed fire in South America: a review</title>
@@ -379,20 +387,6 @@
       <guid isPermaLink="false">doi:10.1071/wf26113</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <description>&lt;strong&gt;Authors:&lt;/strong&gt; Anthony R. White&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26113'&gt;10.1071/wf26113&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>The 2014 Camp Swift Fire experiments: a FAIR, spatiotemporally integrated dataset for evaluating 3D fire models</title>
-      <link>https://doi.org/10.1071/wf25139</link>
-      <guid isPermaLink="false">doi:10.1071/wf25139</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Derek McNamara, William Mell, Alexander Maranghides, Karen Ridenour-Jackson&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25139'&gt;10.1071/wf25139&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>Fire Dynamics Simulator and QUIC-fire simulations of the 2014 Camp Swift experiments</title>
-      <link>https://doi.org/10.1071/wf25104</link>
-      <guid isPermaLink="false">doi:10.1071/wf25104</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>&lt;strong&gt;Authors:&lt;/strong&gt; William Mell, Derek McNamara, Xareni Sanchez-Monroy, Anthony Bova&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25104'&gt;10.1071/wf25104&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
