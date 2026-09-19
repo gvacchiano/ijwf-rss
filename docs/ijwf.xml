@@ -5,7 +5,7 @@
     <link>https://connectsci.au/wf</link>
     <description>Feed generated from Crossref metadata for the International Journal of Wildland Fire.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 08:58:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 08:46:45 +0000</lastBuildDate>
     <item>
       <title>&lt;i&gt;Corrigendum to&lt;/i&gt;
                     : Categorizing weather patterns associated with lightning-caused ignition clusters in Canada</title>
@@ -99,18 +99,18 @@
       <description>&lt;strong&gt;Authors:&lt;/strong&gt; Felicity E. Charles, April E. Reside, Patrick T. Moss, Annabel L. Smith&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25076'&gt;10.1071/wf25076&lt;/a&gt;</description>
     </item>
     <item>
-      <title>One hundred years of forest fires in Poland – historical and socio-economic context</title>
-      <link>https://doi.org/10.1071/wf24146</link>
-      <guid isPermaLink="false">doi:10.1071/wf24146</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Jan Kaczmarowski, Wojciech Kędziora, M. Conceição Colaço&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf24146'&gt;10.1071/wf24146&lt;/a&gt;</description>
-    </item>
-    <item>
       <title>When mulch burns: fire risks at the wildland–urban interface</title>
       <link>https://doi.org/10.1071/wf26040</link>
       <guid isPermaLink="false">doi:10.1071/wf26040</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <description>&lt;strong&gt;Authors:&lt;/strong&gt; Shaorun Lin, Stephen L. Quarles, Daniel J. Gorham, Wuquan Cui, Michael J. Gollner&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26040'&gt;10.1071/wf26040&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>One hundred years of forest fires in Poland – historical and socio-economic context</title>
+      <link>https://doi.org/10.1071/wf24146</link>
+      <guid isPermaLink="false">doi:10.1071/wf24146</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Jan Kaczmarowski, Wojciech Kędziora, M. Conceição Colaço&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf24146'&gt;10.1071/wf24146&lt;/a&gt;</description>
     </item>
     <item>
       <title>Characterization of the ecological impacts of prescribed fire in South America: a review</title>
@@ -359,13 +359,6 @@
       <guid isPermaLink="false">doi:10.1071/wf25193</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <description>&lt;strong&gt;Authors:&lt;/strong&gt; Megan M. Johnson, Fernando Garcia-Menendez&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25193'&gt;10.1071/wf25193&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>Do spatial simulations change reference conditions?</title>
-      <link>https://doi.org/10.1071/wf25169</link>
-      <guid isPermaLink="false">doi:10.1071/wf25169</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Louis Provencher, Sarah Byer, Kevin J. Badik, Margaret Horner, Bryan Hamilton, Devin McHugh, Michael J. Clifford, Laurel Saito&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25169'&gt;10.1071/wf25169&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
