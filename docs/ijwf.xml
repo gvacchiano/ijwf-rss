@@ -5,7 +5,7 @@
     <link>https://connectsci.au/wf</link>
     <description>Feed generated from Crossref metadata for the International Journal of Wildland Fire.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 09:17:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 09:17:04 +0000</lastBuildDate>
     <item>
       <title>ESFire30: unravelling four decades of wildfire burned area data in peninsular Spain</title>
       <link>https://doi.org/10.1071/wf26035</link>
@@ -106,18 +106,18 @@
       <description>&lt;strong&gt;Authors:&lt;/strong&gt; Felicity E. Charles, April E. Reside, Patrick T. Moss, Annabel L. Smith&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25076'&gt;10.1071/wf25076&lt;/a&gt;</description>
     </item>
     <item>
-      <title>One hundred years of forest fires in Poland – historical and socio-economic context</title>
-      <link>https://doi.org/10.1071/wf24146</link>
-      <guid isPermaLink="false">doi:10.1071/wf24146</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Jan Kaczmarowski, Wojciech Kędziora, M. Conceição Colaço&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf24146'&gt;10.1071/wf24146&lt;/a&gt;</description>
-    </item>
-    <item>
       <title>When mulch burns: fire risks at the wildland–urban interface</title>
       <link>https://doi.org/10.1071/wf26040</link>
       <guid isPermaLink="false">doi:10.1071/wf26040</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <description>&lt;strong&gt;Authors:&lt;/strong&gt; Shaorun Lin, Stephen L. Quarles, Daniel J. Gorham, Wuquan Cui, Michael J. Gollner&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26040'&gt;10.1071/wf26040&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>One hundred years of forest fires in Poland – historical and socio-economic context</title>
+      <link>https://doi.org/10.1071/wf24146</link>
+      <guid isPermaLink="false">doi:10.1071/wf24146</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Jan Kaczmarowski, Wojciech Kędziora, M. Conceição Colaço&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf24146'&gt;10.1071/wf24146&lt;/a&gt;</description>
     </item>
     <item>
       <title>Characterization of the ecological impacts of prescribed fire in South America: a review</title>
@@ -352,20 +352,6 @@
       <guid isPermaLink="false">doi:10.1071/wf25141</guid>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
       <description>&lt;strong&gt;Authors:&lt;/strong&gt; C. Cerovski-Darriau, K. S. Perkins, C. A. Creamer, J. P. Prancevic, J. D. Stock&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25141'&gt;10.1071/wf25141&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>Effects of fire management on biomass and debris carbon stocks in Australia’s northern savannas: results from long-term trials</title>
-      <link>https://doi.org/10.1071/wf26061</link>
-      <guid isPermaLink="false">doi:10.1071/wf26061</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Ee Ling Ng, Jacqueline R. England, Keryn I. Paul, Melissa Piper, Anna E. Richards, Robyn A. Cowley, Rodd M. Dyer, Jon Schatz, David I. Forrester&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26061'&gt;10.1071/wf26061&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>Prescribed burning in your backyard? Connecting perceptions of wildland fire, smoke and exposure mitigation actions</title>
-      <link>https://doi.org/10.1071/wf25193</link>
-      <guid isPermaLink="false">doi:10.1071/wf25193</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Megan M. Johnson, Fernando Garcia-Menendez&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25193'&gt;10.1071/wf25193&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
