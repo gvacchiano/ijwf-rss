@@ -5,7 +5,14 @@
     <link>https://connectsci.au/wf</link>
     <description>Feed generated from Crossref metadata for the International Journal of Wildland Fire.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 11:44:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 09:29:11 +0000</lastBuildDate>
+    <item>
+      <title>Improving the efficiency of helitack crew deployment through spatial optimization</title>
+      <link>https://doi.org/10.1071/wf26022</link>
+      <guid isPermaLink="false">doi:10.1071/wf26022</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Frédéric Brunet, Jonathan Boucher, Mathieu Bouchard, Valérie Bélanger&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26022'&gt;10.1071/wf26022&lt;/a&gt;</description>
+    </item>
     <item>
       <title>Machine learning assessment of climate-driven variability in European forest fire burnt areas</title>
       <link>https://doi.org/10.1071/wf26142</link>
@@ -172,18 +179,18 @@
       <description>&lt;strong&gt;Authors:&lt;/strong&gt; Felicity E. Charles, April E. Reside, Patrick T. Moss, Annabel L. Smith&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25076'&gt;10.1071/wf25076&lt;/a&gt;</description>
     </item>
     <item>
-      <title>One hundred years of forest fires in Poland – historical and socio-economic context</title>
-      <link>https://doi.org/10.1071/wf24146</link>
-      <guid isPermaLink="false">doi:10.1071/wf24146</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Jan Kaczmarowski, Wojciech Kędziora, M. Conceição Colaço&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf24146'&gt;10.1071/wf24146&lt;/a&gt;</description>
-    </item>
-    <item>
       <title>When mulch burns: fire risks at the wildland–urban interface</title>
       <link>https://doi.org/10.1071/wf26040</link>
       <guid isPermaLink="false">doi:10.1071/wf26040</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <description>&lt;strong&gt;Authors:&lt;/strong&gt; Shaorun Lin, Stephen L. Quarles, Daniel J. Gorham, Wuquan Cui, Michael J. Gollner&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf26040'&gt;10.1071/wf26040&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>One hundred years of forest fires in Poland – historical and socio-economic context</title>
+      <link>https://doi.org/10.1071/wf24146</link>
+      <guid isPermaLink="false">doi:10.1071/wf24146</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Jan Kaczmarowski, Wojciech Kędziora, M. Conceição Colaço&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf24146'&gt;10.1071/wf24146&lt;/a&gt;</description>
     </item>
     <item>
       <title>Characterization of the ecological impacts of prescribed fire in South America: a review</title>
@@ -404,13 +411,6 @@
       <guid isPermaLink="false">doi:10.1071/wf25290</guid>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
       <description>&lt;strong&gt;Authors:&lt;/strong&gt; Habtamu G. Gessesse, Alexander I. Filkov, Thomas A. Fairman, Trent D. Penman, Lauren T. Bennett&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25290'&gt;10.1071/wf25290&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>A methodology for quantifying structure fragility to fire in the wildland–urban interface utilizing past event investigations and fire and ember modeling</title>
-      <link>https://doi.org/10.1071/wf25146</link>
-      <guid isPermaLink="false">doi:10.1071/wf25146</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Maria F. Theodori, Raquel S. P. Hakes, Chris Lautenberger, Linda Qian, Michael J. Gollner&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25146'&gt;10.1071/wf25146&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
