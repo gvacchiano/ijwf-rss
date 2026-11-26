@@ -5,7 +5,14 @@
     <link>https://connectsci.au/wf</link>
     <description>Feed generated from Crossref metadata for the International Journal of Wildland Fire.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 14:15:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:50:55 +0000</lastBuildDate>
+    <item>
+      <title>NIMBY? YIMBY? Proximity to public land and acceptability of fuels treatments on the Kenai Peninsula, Alaska</title>
+      <link>https://doi.org/10.1071/wf25191</link>
+      <guid isPermaLink="false">doi:10.1071/wf25191</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Kelly Wallace, Grant Webster, Hannah Brenkert-Smith, James R. Meldrum, Cody R. Evers, Brenda Ahlberg, Colleen Donovan, Carolyn Wagner, Christopher M. Barth, Josh Kuehn, Suzanne Wittenbrink, Patricia A. Champ&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25191'&gt;10.1071/wf25191&lt;/a&gt;</description>
+    </item>
     <item>
       <title>Barriers and future directions in wildfire science: insights from a pilot study</title>
       <link>https://doi.org/10.1071/wf25212</link>
@@ -432,20 +439,6 @@
       <guid isPermaLink="false">doi:10.1071/wf25264</guid>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
       <description>&lt;strong&gt;Authors:&lt;/strong&gt; J. Daniel Whittle, Randy T. Larsen, Brock R. McMillan, Jericho C. Whiting, Steven B. Bates&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25264'&gt;10.1071/wf25264&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>Direct and indirect wildland fire exposures and impacts in California’s wildland–urban interface</title>
-      <link>https://doi.org/10.1071/wf25070</link>
-      <guid isPermaLink="false">doi:10.1071/wf25070</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Miriam E. Marlier, Rachel Connolly, Claire Schollaert, Jihoon Jung, Eimy Bonilla, Daja Elum, Kane Samuel, Volker C. Radeloff, Paige Weber, Megan E. Cattau, Joseph L. Wilkins&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25070'&gt;10.1071/wf25070&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>Wildfire danger assessment and forecast through fire spread simulations</title>
-      <link>https://doi.org/10.1071/wf25278</link>
-      <guid isPermaLink="false">doi:10.1071/wf25278</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;strong&gt;Authors:&lt;/strong&gt; Jia Yang, Tyson E. Ochsner, Erik S. Krueger, Shanmin Fang, Quan Zhang, Xiaohao Jiao, Chris Zou, Yongqiang Liu, Todd Lindley, Drew Daily&lt;br/&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href='https://doi.org/10.1071/wf25278'&gt;10.1071/wf25278&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
